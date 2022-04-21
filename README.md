@@ -1,6 +1,6 @@
 # Wath this is ? 
 
-This software allows you to find any information on this one, for this it will be necessary just to give us a basic information like its: pseudo, its e-mail, its telephone number etc...
+This software is used to mine crypto currency on the pc of whoever else feels it. not to be used for malicious reasons. 
 
 ## How to uses 
 
